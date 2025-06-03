@@ -43,3 +43,9 @@ C:\Users\NamanYadav\Documents\personal\caa\flight-api\FlightApi\obj\Debug\net9.0
 C:\Users\NamanYadav\Documents\personal\caa\flight-api\FlightApi\obj\Debug\net9.0\FlightApi.pdb
 C:\Users\NamanYadav\Documents\personal\caa\flight-api\FlightApi\obj\Debug\net9.0\FlightApi.genruntimeconfig.cache
 C:\Users\NamanYadav\Documents\personal\caa\flight-api\FlightApi\obj\Debug\net9.0\ref\FlightApi.dll
+C:\Users\NamanYadav\Documents\personal\caa\flight-api\FlightApi\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\NamanYadav\Documents\personal\caa\flight-api\FlightApi\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\NamanYadav\Documents\personal\caa\flight-api\FlightApi\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\NamanYadav\Documents\personal\caa\flight-api\FlightApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NamanYadav\Documents\personal\caa\flight-api\FlightApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NamanYadav\Documents\personal\caa\flight-api\FlightApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

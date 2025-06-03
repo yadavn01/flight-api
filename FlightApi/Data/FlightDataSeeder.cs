@@ -22,7 +22,7 @@ public static class FlightDataSeeder
                 };
                 context.Flights.Add(flight);
             }
-            context.SaveChanges(); //save changes
+            context.SaveChanges();
         }
     }
 }
